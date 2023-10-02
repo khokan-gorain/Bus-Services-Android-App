@@ -1,2 +1,1 @@
-# Bus-Services-app
-This is a GPS Tracker android app for bus services. You can track your bus in real time on google map and you can see your bus status.
+Implemented advanced GPS technology to track the precise location of college buses on Google Maps, ensuring accurate and up-to-the-minute information for students. 
